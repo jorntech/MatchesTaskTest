@@ -1,0 +1,15 @@
+{
+    "containerResultPath":  "",
+    "launchConfigName":  "Sanbox",
+    "securePassword":  "01000000d08c9ddf0115d1118c7a00c04fc297eb01000000eaea506d8600534ea46bb0183f4dfbb000000000020000000000106600000001000020000000b279000261e41e6a40296ded2448a0068bb9067d94f01732912e7a3bb1c0d0b6000000000e80000000020000200000007d4207396bbe7558184a50ec45abfced27ef86a97e2fe347572ce08f0eec09dd2000000090028709673eeea4b1272fd3128adc09060bae04338bf5631c494fa2c75e7f3c40000000b3c635c64376110df4e14d508c8c2454097df8d7c398090b0d55dd1e42f7aec68ccfd50bcc7ae0885f904a7de8b11171cb101028f9f758b035b8d70a4505ff97",
+    "userName":  "Admin",
+    "companyName":  "CRONUS",
+    "testSuiteName":  "",
+    "vmUserName":  "",
+    "vmSecurePassword":  "",
+    "remoteContainerName":  "",
+    "dockerHost":  "",
+    "newPSSessionOptions":  "",
+    "testRunnerServiceUrl":  "",
+    "codeCoveragePath":  ".//.altestrunner//codecoverage.json"
+}
